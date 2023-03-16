@@ -1,0 +1,12 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Repositories/CS303/Term_Project/Term_Project.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Repositories/CS303/Term_Project/Term_Project.srcs/sim_1/new/elevator_module_tb.v,1673417473,verilog,,,,elevator_module_tb,,,,,,,,
+C:/Repositories/CS303/Term_Project/Term_Project.srcs/sim_1/new/main_tb.v,1674060021,verilog,,,,main_tb,,,,,,,,
+C:/Repositories/CS303/Term_Project/Term_Project.srcs/sources_1/imports/Desktop/clk_divider.v,1672684536,verilog,,C:/Repositories/CS303/Term_Project/Term_Project.srcs/sources_1/imports/Desktop/debouncer.v,,clk_divider,,,,,,,,
+C:/Repositories/CS303/Term_Project/Term_Project.srcs/sources_1/imports/Desktop/debouncer.v,1672684537,verilog,,C:/Repositories/CS303/Term_Project/Term_Project.srcs/sources_1/new/elevator_module.v,,debouncer,,,,,,,,
+C:/Repositories/CS303/Term_Project/Term_Project.srcs/sources_1/new/elevator_module.v,1674057051,verilog,,C:/Repositories/CS303/Term_Project/Term_Project.srcs/sources_1/new/main.v,,elevator,,,,,,,,
+C:/Repositories/CS303/Term_Project/Term_Project.srcs/sources_1/new/main.v,1674053238,verilog,,C:/Repositories/CS303/Term_Project/Term_Project.srcs/sim_1/new/main_tb.v,,top_module,,,,,,,,
+C:/Repositories/CS303/Term_Project/Term_Project.srcs/sources_1/new/ssd.v,1672782007,verilog,,C:/Repositories/CS303/Term_Project/Term_Project.srcs/sim_1/new/main_tb.v,,ssd,,,,,,,,

@@ -1,0 +1,8 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Repositories/CS303/Lab4/Lab4.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Repositories/CS303/Lab4/Lab4.srcs/sim_1/new/clockcounter_tb.v,1672314561,verilog,,,,clockcounter_tb,,,,,,,,
+C:/Repositories/CS303/Lab4/Lab4.srcs/sim_1/new/mod_7_serial_tb.v,1672470908,verilog,,,,mod_7_serial_tb,,,,,,,,
+C:/Repositories/CS303/Lab4/Lab4.srcs/sources_1/new/mod_7_serial.v,1672470784,verilog,,C:/Repositories/CS303/Lab4/Lab4.srcs/sim_1/new/mod_7_serial_tb.v,,clockcounter;main;mod_7_circuit,,,,,,,,

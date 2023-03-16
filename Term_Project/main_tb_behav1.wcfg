@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="main_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="main_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="183800000001fs"></ZoomEndTime>
+      <Cursor1Time time="0fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="184"></NameColumnWidth>
+      <ValueColumnWidth column_width="86"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="81" />
+   <wvobject fp_name="/main_tb/led_busy" type="logic">
+      <obj_property name="ElementShortName">led_busy</obj_property>
+      <obj_property name="ObjectShortName">led_busy</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/led_inside_0" type="logic">
+      <obj_property name="ElementShortName">led_inside_0</obj_property>
+      <obj_property name="ObjectShortName">led_inside_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/led_inside_1" type="logic">
+      <obj_property name="ElementShortName">led_inside_1</obj_property>
+      <obj_property name="ObjectShortName">led_inside_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/led_inside_2" type="logic">
+      <obj_property name="ElementShortName">led_inside_2</obj_property>
+      <obj_property name="ObjectShortName">led_inside_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/led_inside_3" type="logic">
+      <obj_property name="ElementShortName">led_inside_3</obj_property>
+      <obj_property name="ObjectShortName">led_inside_3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/led_inside_4" type="logic">
+      <obj_property name="ElementShortName">led_inside_4</obj_property>
+      <obj_property name="ObjectShortName">led_inside_4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/led_outside_0" type="logic">
+      <obj_property name="ElementShortName">led_outside_0</obj_property>
+      <obj_property name="ObjectShortName">led_outside_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/led_outside_1" type="logic">
+      <obj_property name="ElementShortName">led_outside_1</obj_property>
+      <obj_property name="ObjectShortName">led_outside_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/led_outside_2" type="logic">
+      <obj_property name="ElementShortName">led_outside_2</obj_property>
+      <obj_property name="ObjectShortName">led_outside_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/led_outside_3" type="logic">
+      <obj_property name="ElementShortName">led_outside_3</obj_property>
+      <obj_property name="ObjectShortName">led_outside_3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/led_outside_4" type="logic">
+      <obj_property name="ElementShortName">led_outside_4</obj_property>
+      <obj_property name="ObjectShortName">led_outside_4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/a_out" type="logic">
+      <obj_property name="ElementShortName">a_out</obj_property>
+      <obj_property name="ObjectShortName">a_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/b_out" type="logic">
+      <obj_property name="ElementShortName">b_out</obj_property>
+      <obj_property name="ObjectShortName">b_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/c_out" type="logic">
+      <obj_property name="ElementShortName">c_out</obj_property>
+      <obj_property name="ObjectShortName">c_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/d_out" type="logic">
+      <obj_property name="ElementShortName">d_out</obj_property>
+      <obj_property name="ObjectShortName">d_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/e_out" type="logic">
+      <obj_property name="ElementShortName">e_out</obj_property>
+      <obj_property name="ObjectShortName">e_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/f_out" type="logic">
+      <obj_property name="ElementShortName">f_out</obj_property>
+      <obj_property name="ObjectShortName">f_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/g_out" type="logic">
+      <obj_property name="ElementShortName">g_out</obj_property>
+      <obj_property name="ObjectShortName">g_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/p_out" type="logic">
+      <obj_property name="ElementShortName">p_out</obj_property>
+      <obj_property name="ObjectShortName">p_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/an" type="array">
+      <obj_property name="ElementShortName">an[7:0]</obj_property>
+      <obj_property name="ObjectShortName">an[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/direction_1" type="logic">
+      <obj_property name="ElementShortName">direction_1</obj_property>
+      <obj_property name="ObjectShortName">direction_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/direction_2" type="logic">
+      <obj_property name="ElementShortName">direction_2</obj_property>
+      <obj_property name="ObjectShortName">direction_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/direction_3" type="logic">
+      <obj_property name="ElementShortName">direction_3</obj_property>
+      <obj_property name="ObjectShortName">direction_3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/floor_0_d" type="logic">
+      <obj_property name="ElementShortName">floor_0_d</obj_property>
+      <obj_property name="ObjectShortName">floor_0_d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/floor_1_d" type="logic">
+      <obj_property name="ElementShortName">floor_1_d</obj_property>
+      <obj_property name="ObjectShortName">floor_1_d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/floor_2_d" type="logic">
+      <obj_property name="ElementShortName">floor_2_d</obj_property>
+      <obj_property name="ObjectShortName">floor_2_d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/floor_3_d" type="logic">
+      <obj_property name="ElementShortName">floor_3_d</obj_property>
+      <obj_property name="ObjectShortName">floor_3_d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/floor_4_d" type="logic">
+      <obj_property name="ElementShortName">floor_4_d</obj_property>
+      <obj_property name="ObjectShortName">floor_4_d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/floor_1_p" type="logic">
+      <obj_property name="ElementShortName">floor_1_p</obj_property>
+      <obj_property name="ObjectShortName">floor_1_p</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/floor_0_p" type="logic">
+      <obj_property name="ElementShortName">floor_0_p</obj_property>
+      <obj_property name="ObjectShortName">floor_0_p</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/floor_2_p" type="logic">
+      <obj_property name="ElementShortName">floor_2_p</obj_property>
+      <obj_property name="ObjectShortName">floor_2_p</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/floor_4_p" type="logic">
+      <obj_property name="ElementShortName">floor_4_p</obj_property>
+      <obj_property name="ObjectShortName">floor_4_p</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/floor_3_p" type="logic">
+      <obj_property name="ElementShortName">floor_3_p</obj_property>
+      <obj_property name="ObjectShortName">floor_3_p</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/clk_50hz" type="logic">
+      <obj_property name="ElementShortName">clk_50hz</obj_property>
+      <obj_property name="ObjectShortName">clk_50hz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/floor_0_p" type="logic">
+      <obj_property name="ElementShortName">floor_0_p</obj_property>
+      <obj_property name="ObjectShortName">floor_0_p</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/floor_1_p" type="logic">
+      <obj_property name="ElementShortName">floor_1_p</obj_property>
+      <obj_property name="ObjectShortName">floor_1_p</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/floor_2_p" type="logic">
+      <obj_property name="ElementShortName">floor_2_p</obj_property>
+      <obj_property name="ObjectShortName">floor_2_p</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/floor_3_p" type="logic">
+      <obj_property name="ElementShortName">floor_3_p</obj_property>
+      <obj_property name="ObjectShortName">floor_3_p</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/floor_4_p" type="logic">
+      <obj_property name="ElementShortName">floor_4_p</obj_property>
+      <obj_property name="ObjectShortName">floor_4_p</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/direction_1" type="logic">
+      <obj_property name="ElementShortName">direction_1</obj_property>
+      <obj_property name="ObjectShortName">direction_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/direction_2" type="logic">
+      <obj_property name="ElementShortName">direction_2</obj_property>
+      <obj_property name="ObjectShortName">direction_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/direction_3" type="logic">
+      <obj_property name="ElementShortName">direction_3</obj_property>
+      <obj_property name="ObjectShortName">direction_3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/floor_0_d" type="logic">
+      <obj_property name="ElementShortName">floor_0_d</obj_property>
+      <obj_property name="ObjectShortName">floor_0_d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/floor_1_d" type="logic">
+      <obj_property name="ElementShortName">floor_1_d</obj_property>
+      <obj_property name="ObjectShortName">floor_1_d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/floor_2_d" type="logic">
+      <obj_property name="ElementShortName">floor_2_d</obj_property>
+      <obj_property name="ObjectShortName">floor_2_d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/floor_3_d" type="logic">
+      <obj_property name="ElementShortName">floor_3_d</obj_property>
+      <obj_property name="ObjectShortName">floor_3_d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/floor_4_d" type="logic">
+      <obj_property name="ElementShortName">floor_4_d</obj_property>
+      <obj_property name="ObjectShortName">floor_4_d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/led_inside_0" type="logic">
+      <obj_property name="ElementShortName">led_inside_0</obj_property>
+      <obj_property name="ObjectShortName">led_inside_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/led_inside_1" type="logic">
+      <obj_property name="ElementShortName">led_inside_1</obj_property>
+      <obj_property name="ObjectShortName">led_inside_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/led_inside_2" type="logic">
+      <obj_property name="ElementShortName">led_inside_2</obj_property>
+      <obj_property name="ObjectShortName">led_inside_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/led_inside_3" type="logic">
+      <obj_property name="ElementShortName">led_inside_3</obj_property>
+      <obj_property name="ObjectShortName">led_inside_3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/led_inside_4" type="logic">
+      <obj_property name="ElementShortName">led_inside_4</obj_property>
+      <obj_property name="ObjectShortName">led_inside_4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/led_outside_0" type="logic">
+      <obj_property name="ElementShortName">led_outside_0</obj_property>
+      <obj_property name="ObjectShortName">led_outside_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/led_outside_1" type="logic">
+      <obj_property name="ElementShortName">led_outside_1</obj_property>
+      <obj_property name="ObjectShortName">led_outside_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/led_outside_2" type="logic">
+      <obj_property name="ElementShortName">led_outside_2</obj_property>
+      <obj_property name="ObjectShortName">led_outside_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/led_outside_3" type="logic">
+      <obj_property name="ElementShortName">led_outside_3</obj_property>
+      <obj_property name="ObjectShortName">led_outside_3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/led_outside_4" type="logic">
+      <obj_property name="ElementShortName">led_outside_4</obj_property>
+      <obj_property name="ObjectShortName">led_outside_4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/led_busy" type="logic">
+      <obj_property name="ElementShortName">led_busy</obj_property>
+      <obj_property name="ObjectShortName">led_busy</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/a" type="array">
+      <obj_property name="ElementShortName">a[7:0]</obj_property>
+      <obj_property name="ObjectShortName">a[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/b" type="array">
+      <obj_property name="ElementShortName">b[7:0]</obj_property>
+      <obj_property name="ObjectShortName">b[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/c" type="array">
+      <obj_property name="ElementShortName">c[7:0]</obj_property>
+      <obj_property name="ObjectShortName">c[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/d" type="array">
+      <obj_property name="ElementShortName">d[7:0]</obj_property>
+      <obj_property name="ObjectShortName">d[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/e" type="array">
+      <obj_property name="ElementShortName">e[7:0]</obj_property>
+      <obj_property name="ObjectShortName">e[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/f" type="array">
+      <obj_property name="ElementShortName">f[7:0]</obj_property>
+      <obj_property name="ObjectShortName">f[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/g" type="array">
+      <obj_property name="ElementShortName">g[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/p" type="array">
+      <obj_property name="ElementShortName">p[7:0]</obj_property>
+      <obj_property name="ObjectShortName">p[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/elev_state" type="array">
+      <obj_property name="ElementShortName">elev_state[1:0]</obj_property>
+      <obj_property name="ObjectShortName">elev_state[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/floor" type="array">
+      <obj_property name="ElementShortName">floor[2:0]</obj_property>
+      <obj_property name="ObjectShortName">floor[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/counter" type="array">
+      <obj_property name="ElementShortName">counter[12:0]</obj_property>
+      <obj_property name="ObjectShortName">counter[12:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/queue" type="array">
+      <obj_property name="ElementShortName">queue[2:0]</obj_property>
+      <obj_property name="ObjectShortName">queue[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/IDLE" type="array">
+      <obj_property name="ElementShortName">IDLE[1:0]</obj_property>
+      <obj_property name="ObjectShortName">IDLE[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/DOWN" type="array">
+      <obj_property name="ElementShortName">DOWN[1:0]</obj_property>
+      <obj_property name="ObjectShortName">DOWN[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/UP" type="array">
+      <obj_property name="ElementShortName">UP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">UP[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/FL0" type="array">
+      <obj_property name="ElementShortName">FL0[2:0]</obj_property>
+      <obj_property name="ObjectShortName">FL0[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/FL1" type="array">
+      <obj_property name="ElementShortName">FL1[2:0]</obj_property>
+      <obj_property name="ObjectShortName">FL1[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/FL2" type="array">
+      <obj_property name="ElementShortName">FL2[2:0]</obj_property>
+      <obj_property name="ObjectShortName">FL2[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/FL3" type="array">
+      <obj_property name="ElementShortName">FL3[2:0]</obj_property>
+      <obj_property name="ObjectShortName">FL3[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/uut/elev/FL4" type="array">
+      <obj_property name="ElementShortName">FL4[2:0]</obj_property>
+      <obj_property name="ObjectShortName">FL4[2:0]</obj_property>
+   </wvobject>
+</wave_config>
